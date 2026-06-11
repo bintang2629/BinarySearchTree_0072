@@ -18,3 +18,16 @@ public:
     }
 
 }
+
+class Binarytree
+{
+public:
+    Node *ROOT;
+    
+    Binarytree()
+    {
+        ROOT = NULL; // Initializing ROOT to NULL
+    }
+
+    //insert a node in the binary search tree
+}
